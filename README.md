@@ -28,6 +28,7 @@ Using Spark SQL syntax within BigQuery, I performed the following steps:
    ARPU (Average Revenue Per User): Total Revenue / Total Users
 
 Dashboard Preview
+
 ![A/B Test Dashboard](ab_test_scrin.jpg)
 
 Key Insights & Product Analysis
