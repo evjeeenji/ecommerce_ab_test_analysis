@@ -28,7 +28,7 @@ Using **Spark SQL** syntax within BigQuery, I performed the following steps:
    * **ARPU (Average Revenue Per User):** Total Revenue / Total Users
 
 ## Dashboard Preview
-![A/B Test Dashboard](ab_test_scrin.jpg)
+![A/B Test Dashboard](ab_test_screen.jpg)
 
 ## Key Insights & Product Analysis
 * **Conversion vs. Value Trade-off:** The One-Page Checkout (Test) showed a slight decrease in Conversion Rate (**1.7% vs 1.8%** in Control). However, it saw an increase in **Average Order Value (AOV)** to **$64.3**.
